@@ -1,0 +1,35 @@
+#article{
+    display: flex;
+    gap: 1rem;
+}
+
+#article .article-infos{
+    padding: 0 5px;
+    margin-top: -7px;
+}
+
+#article .article-infos h2{
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: -5px;
+    /* border: 2px solid; */
+}
+
+#article .article-infos h3{
+    font-size: 20px;
+    font-weight: 400;
+    color: #8695a4;
+    margin-bottom: 11px;
+}
+
+#article img{
+    box-shadow: 2px 2px 7px 2px rgba(0, 0, 0, 0.25);
+    width: 30rem;
+    height: 180px;
+    transition: all 0.4s;
+    cursor: pointer;
+}
+
+#article img:hover{
+    transform: scale(1.1);
+}
