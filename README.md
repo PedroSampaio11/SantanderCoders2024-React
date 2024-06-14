@@ -1,4 +1,5 @@
-🚀 Space Flight News
+🚀 SPACE FLIGHT NEWS
+
 Bem-vindo ao Space Flight News! Este projeto foi desenvolvido como parte do curso de React no Santander Coders 2024 - ADA Tech. O objetivo é fornecer as últimas notícias e atualizações sobre o espaço, utilizando tecnologias como Git, GitHub, JavaScript, React, HTML e CSS.
 
 
