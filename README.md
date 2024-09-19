@@ -10,8 +10,15 @@ O Space Flight News é uma aplicação web que permite aos usuários acessar as 
 ✨ Funcionalidades
 
 📰 Listar as últimas notícias sobre o espaço
+
+
 🔍 Visualizar detalhes de uma notícia específica
+
+
 📱 Interface amigável e responsiva
+
+###
+
 💻 Tecnologias Utilizadas
 JavaScript
 React
