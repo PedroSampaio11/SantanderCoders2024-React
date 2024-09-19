@@ -27,7 +27,7 @@ Git e GitHub
 Após iniciar a aplicação, você poderá:
 
 - Navegar pela lista de notícias na página inicial.
-- 
+
 
 🤝 Contribuição
 
